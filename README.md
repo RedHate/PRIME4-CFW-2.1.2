@@ -10,3 +10,7 @@ How to ssh in:
   2) On Linux: Open a terminal and type ssh ipaddresshere. On windows try using putty, the ssh port is 22.
 
 No root password is needed for ssh currently
+
+## sha1sum
+
+ccfd282b6f55cbe7bea1770b39cfb0eb40b7ab01  PRIME4-2.1.2-Update.img
