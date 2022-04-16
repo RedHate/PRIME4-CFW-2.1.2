@@ -2,7 +2,7 @@
 ssh enabled PRIME4 engine os firmware.
 
 How to install:
-  1) Download all the parts then extract the image named MIXSTREAMPRO-2.1.2-Update.img
+  1) Download all the parts then extract the image named PRIME4-2.1.2-Update.img
   2) Copy the image to the root of an SD or USB card then install from the settings menu.
 
 How to ssh in:
